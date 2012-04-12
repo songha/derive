@@ -24,6 +24,7 @@ public class ExerciseOOP {
         p=a*a;
        }
       System.out.println("a="+a);
+      System.out.println("hello world");
     }
     
 }
